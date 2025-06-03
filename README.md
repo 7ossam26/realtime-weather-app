@@ -66,7 +66,3 @@ npm run build
 ```
 
 This will create a `dist` folder with the production-ready files.
-
-## License
-
-MIT
